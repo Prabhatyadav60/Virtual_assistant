@@ -1,8 +1,18 @@
+
+
+
+
 # Virtual Assistant: Emotion-Driven Interactive Chatbot with Live Emotion Detection
 
 A smart virtual assistant that uses your webcam to capture real-time video, analyzes your emotional state using DeepFace, and engages in a natural conversation via the DeepSeek API. The assistant also uses text-to-speech (TTS) and speech recognition to provide a seamless interactive experience and can trigger IoT-like actions based on detected emotions.
 
 ## Demo Video
+> **Note:** Please unmute the video manually by clicking the sound icon 🔊
+
+https://github.com/user-attachments/assets/03d525b0-e0b6-4253-a30d-2960a39d10c5
+
+
+
 
 
 ## Features
